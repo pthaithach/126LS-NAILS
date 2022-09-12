@@ -1,0 +1,34 @@
+{
+    "info": {
+        "store"     : "LS",
+        "slug"      : "ls-nails-spa",
+        "phone"     : "+954 960-2447",
+        "email"     : "vickynguyen9040@gmail.com",
+        "address"   : "2101 N Federal Hwy Ste D103 Pompano Beach, FL 33062",
+        "time_1"    : "Tue - Sat 9:30 AM - 7:30 PM",
+        "time_2"    : "Sun 11:30 AM - 6:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/LSnailsSpa/",
+        "instagram" :   "https://www.instagram.com/lsnailsspa/",
+        "google"    :   "https://goo.gl/maps/LB7HQRcyZnBnndpU9", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDM3ODl8bHNuYWlsNzd8RkxfMDc3MjF8ZGRjNDQxYzEyYTkxNjI2OGU2NmMwMmFiNjI3MjYzZTM=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14312.54655746489!2d-80.101902!3d26.2572284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x419117a7b576d656!2sLS%20Nails%20%26%20Spa!5e0!3m2!1svi!2s!4v1661490479999!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#B88D2D",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#90C73E",
+        "secondary"             :   "#90C73E",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":    "on",
+    "path_image":   "images"
+}
+
